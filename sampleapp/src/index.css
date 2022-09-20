@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.heading{
+  color:blueviolet;
+  text-align: center;
+  margin: 50px 0px;
+  text-shadow: 0px 2px 4px #ffe9c5;
+  font-family: 'Cormorant SC', serif;
+}
+
+.img_div{
+  display: flex;
+  justify-content: center;
+}
+
+.img_div img{
+  width: 300px;
+  height: 400px;
+}
